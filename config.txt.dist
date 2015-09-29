@@ -1,0 +1,4 @@
+rcon.host=192.168.1.100
+rcon.port=12004
+rcon.password=xxxxxxx
+rcon.macro.user=somebody
